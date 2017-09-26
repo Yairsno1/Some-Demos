@@ -1,4 +1,4 @@
-Stock Options Strategies Explorer
+# Stock Options Strategies Explorer
 
 Java application to display the behavior of stock options strategy according to its different parametrs.
 
